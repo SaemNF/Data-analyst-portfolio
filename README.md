@@ -1,3 +1,3 @@
 # Data analyst projects
 
-This portfolio will include a simple data analyst project using Microsoft SQL and Excel.
+This portfolio includes few simple data analyst projects using Microsoft SQL and Excel.
